@@ -3,7 +3,7 @@
 ### Language: Python 2.7.10
 ### Date Created: December 2018
 ### Date Last Updated: November 2019
-<br>
+
 #### Description:
 
 	Terminal-based system with three parts: User Authentication, Pwd Cracker, Pwd Evaluator.
