@@ -44,8 +44,8 @@
 <br/>
 		
 ### Structure of "password.txt":
-* First line is username
-* Next line is the corresponding password hash
+* First line is username.
+* Next line is the corresponding password hash.
 * And so on.
 * **Leave a blank line at the end of file.**
 
