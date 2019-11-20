@@ -4,6 +4,8 @@
 ##### Date Created: December 2018
 ##### Date Last Updated: November 2019
 
+<br/>
+
 ### Description:
 	The user authenticator uses two programs to create user/password-hash combos as well as verify logins. Both programs use the file "password.txt" to achieve this. Read on for more detailed information.
 
