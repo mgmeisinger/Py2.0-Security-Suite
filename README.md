@@ -12,7 +12,7 @@
 
 #### How to use:
 
-	Enter a directory and skim that section's README for further directions on commands and supporting files.
+	Enter a directory and skim that part's README for further directions on commands and supporting files.
 
 <br/>
 
