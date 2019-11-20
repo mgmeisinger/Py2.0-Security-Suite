@@ -8,7 +8,7 @@
 
 #### Description:
 
-	Terminal-based system with three parts: User Authentication, Pwd Cracker, Pwd Evaluator.
+	Terminal-based system with three parts: User Authenticator, Pwd Cracker, Pwd Evaluator.
 
 #### How to use:
 
