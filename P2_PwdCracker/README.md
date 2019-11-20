@@ -7,7 +7,7 @@
 <br/>
 
 ### Description:
-	  Your standard MD5 password cracker. Uses a pre-generated rainbow table as well as a dictionary file.
+    Your standard MD5 password cracker. Uses a pre-generated rainbow table as well as a dictionary file.
     Read on for more detailed information.
 
 <br/>
