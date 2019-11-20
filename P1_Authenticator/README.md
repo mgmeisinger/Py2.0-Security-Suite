@@ -7,7 +7,7 @@
 <br/>
 
 ### Description:
-	The user authenticator uses two programs to create user/password-hash combos as well as verify logins. <br/>
+	The user authenticator uses two programs to create user/password-hash combos as well as verify logins.
 	Both programs use the file "password.txt" to achieve this. Read on for more detailed information.
 
 <br/>
@@ -20,8 +20,8 @@
 <br/>
 
 ### How to *run*:
-	Type "python creator.py" or "python authentication.py" to start either program. <br/>
-	Example: ~$ python creator.py <br/>
+	Type "python creator.py" or "python authentication.py" to start either program.
+	Example: ~$ python creator.py
 	Example: ~$ python authentication.py
 
 <br/>
