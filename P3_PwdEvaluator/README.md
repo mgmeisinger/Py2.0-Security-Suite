@@ -34,9 +34,9 @@
 * When When evaluating a password, evaluator.py will...
   1. Check to see if it is an exact match with any word in "dictionary.txt".
   1. Check to see if any dictionary word is substring of password.
-  * Excludes dictionary words of 1 or 2 letters.
+    * Excludes dictionary words of 1 or 2 letters.
   1. If not weak or moderate then the password is strong.
-  * ** If there is no "dictionary.txt" file, evaluator.py will exit with proper error message. **
+    * ** If there is no "dictionary.txt" file, evaluator.py will exit with proper error message. **
 
 <br/>
 
