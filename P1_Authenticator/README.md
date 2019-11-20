@@ -33,7 +33,7 @@
 * If username is unique, then md5 hash the password and store them in "password.txt".
 * If there is no "password.txt" file, creator.py will create it.
 
-1. **authentication.py**
+2. **authentication.py**
 * Terminal-based menu that either verifies a login or quits.
 * When verifying the login, prompts user for username and password.
 * First searches "password.txt" for a matching username, if none then authentication fails.
