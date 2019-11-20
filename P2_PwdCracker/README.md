@@ -21,8 +21,8 @@
 <br/>
 
 ### How to *run*:
-  Type "python cracker.py" to start the program.
-	Example: ~$ python cracker.py
+    Type "python cracker.py" to start the program.
+    Example: ~$ python cracker.py
 
 <br/>
 
