@@ -12,6 +12,6 @@
 
 	Enter a directory and skim that section's README for further directions on commands and supporting files.
 
-<br/>
+
 *You will need Python on the local machine to run.* <br>
 *Make sure you are in the correct directory.*
