@@ -1,5 +1,5 @@
 # Security-Suite >> P1_Authenticator
-### Author: Michael Meisinger
+##### Author: Michael Meisinger
 ##### Language: Python 2.7.10
 ##### Date Created: December 2018
 ##### Date Last Updated: November 2019
