@@ -48,7 +48,13 @@
 	* And so on.
 	* ** Leave a blank line at the end of file. **
 
+<br/>
 
-*-You will need Python on the local machine to run.* <br/>
-*-Make sure you are in the correct directory AKA P1_Authenticator.* <br/>
-**-Leave a blank line at the end of "password.txt".**
+*- You will need Python on the local machine to run.* <br/>
+*- Make sure you are in the correct directory AKA P1_Authenticator.* <br/>
+**- Leave a blank line at the end of "password.txt".**
+
+Ordered List
+1. blah1
+1. blah2
+	1. blahblah
