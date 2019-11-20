@@ -12,9 +12,9 @@
 <br/>
 
 #### Files included:
-	1. creator.py
-	1. authentication.py
-	1. password.txt
+1. creator.py
+1. authentication.py
+1. password.txt
 
 <br/>
 
