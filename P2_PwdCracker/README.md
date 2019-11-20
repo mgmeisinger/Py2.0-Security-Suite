@@ -30,7 +30,7 @@
 
 **cracker.py**
 * Terminal-based menu that attempts to crack the password of "hash.txt" or quits.
-* You can edit the password to be cracked in "hash.txt" in between attempts.
+* You can edit the password to be cracked in "hash.txt" in between attempts. See below.
 * When cracking, cracker.py will...
   1. Compare hash against the pre-generated hashes stored in "rainbow.txt".
   1. Try every permutation of 1-3 special chars/numbers before/after every word stored in "dictionary.txt".
