@@ -8,6 +8,6 @@ Terminal-based system with three parts: Authenticator, Pwd Cracker, Pwd Evaluato
 ### Date Created: December 2018
 ### Date Last Updated: November 2019
 
-* You will need Python on the local machine to run. *
-* Make sure you are in the correct directory *
-** Leave a blank line at the end of "password.txt" **
+*You will need Python on the local machine to run.*
+*Make sure you are in the correct directory*
+**Leave a blank line at the end of "password.txt"**
