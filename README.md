@@ -1,8 +1,8 @@
 # Py2.0-Security-Suite
-## Author: Michael Meisinger
-### Language: Python 2.7.10
-### Date Created: December 2018
-### Date Last Updated: November 2019
+### Author: Michael Meisinger
+#### Language: Python 2.7.10
+#### Date Created: December 2018
+#### Date Last Updated: November 2019
 
 <br/>
 
@@ -14,6 +14,7 @@
 
 	Enter a directory and skim that section's README for further directions on commands and supporting files.
 
+<br/>
 
 *-You will need Python on the local machine to run.* <br>
 *-Make sure you are in the correct directory.*
