@@ -4,8 +4,6 @@
 ##### Date Created: December 2018
 ##### Date Last Updated: November 2019
 
-<br/>
-
 ### Description:
 	The user authenticator uses two programs to create user/password-hash combos as well as verify logins. Both programs use the file "password.txt" to achieve this. Read on for more detailed information.
 
@@ -49,6 +47,7 @@
 * **Leave a blank line at the end of file.**
 
 <br/>
+
 ### Other:
 * *You will need Python on the local machine to run.*
 * *Make sure you are in the correct directory AKA P1_Authenticator.*
