@@ -6,9 +6,8 @@
 
 Terminal-based system with three parts: Authenticator, Pwd Cracker, Pwd Evaluator.
 
-How to use:
-
-	- Enter a directory and skim that section's "README.txt" for further directions on commands and supporting files
+**How to use:**
+	Enter a directory and skim that section's README for further directions on commands and supporting files.
 
 *You will need Python on the local machine to run.* <br>
 *Make sure you are in the correct directory.* <br/>
