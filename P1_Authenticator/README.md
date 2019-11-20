@@ -7,7 +7,8 @@
 <br/>
 
 ### Description:
-	The user authenticator uses two programs to create user/password-hash combos as well as verify logins. Both programs use the file "password.txt" to achieve this. Read on for more detailed information.
+	The user authenticator uses two programs to create user/password-hash combos as well as verify logins. <br/>
+	Both programs use the file "password.txt" to achieve this. Read on for more detailed information.
 
 <br/>
 
