@@ -30,14 +30,3 @@
 *-You will need Python 2.7.10 on the local machine to run.* <br/>
 *-Newer versions of Python (3.0+) will result in errors due to syntax changes.* <br/>
 *-Make sure you are in the correct directory.*
-
-### Here's a test
-> Blocking these quotes bruh.
-> Here's a reallllllllly longgggggg linnnnneeee to test. Here's a reallllllllly longgggggg linnnnneeee to test. Here's a reallllllllly longgggggg linnnnneeee to test.
-> Pretty lit but can you doooo *bullets?*
-> * Checkin the bullet situation out
-> * Also known as unordered lists
-> 1. Checking ordered, might as well I guess.
-> 1. Second line for science.
-> <br/>
-> Final line.
