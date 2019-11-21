@@ -17,5 +17,5 @@
 <br/>
 
 *-You will need Python 2.7.10 on the local machine to run.* <br/>
-*-Newer versions of Python (3.0+) will result in errors.* <br/>
+*-Newer versions of Python (3.0+) will result in errors due to syntax changes.* <br/>
 *-Make sure you are in the correct directory.*
