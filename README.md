@@ -38,5 +38,6 @@
 > * Checkin the bullet situation out
 > * Also known as unordered lists
 > 1. Checking ordered, might as well I guess.
-> 1. Second line for science. <br/>
+> 1. Second line for science.
+> <br/>
 > Final line.
