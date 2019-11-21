@@ -34,3 +34,9 @@
 ### Here's a test
 > Blocking these quotes bruh.
 > Here's a reallllllllly longgggggg linnnnneeee to test. Here's a reallllllllly longgggggg linnnnneeee to test. Here's a reallllllllly longgggggg linnnnneeee to test.
+> Pretty lit but can you doooo *bullets?*
+> * Checkin the bullet situation out
+> * Also known as unordered lists
+> 1. Checking ordered, might as well I guess.
+> 1. Second line for science.
+> Final line.
